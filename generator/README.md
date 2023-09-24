@@ -98,4 +98,9 @@ Build Command --> mvn clean install
 Run Command --> java -jar generator-0.0.1-SNAPSHOT.jar
 </b>
 
+<b>
+    
+    Maven Version - 3.8.6    
+    Java Version - 17
+</b>
 
