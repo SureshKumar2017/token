@@ -40,3 +40,7 @@ UI url --> http://localhost:3000/
 </b>
 
 
+<b>
+    
+    Node Version - 18.12.1   
+</b>
